@@ -1,0 +1,68 @@
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+div#main{
+  width: 960px ;
+  margin: 0px ;
+}
+
+body{
+ background-image: url(/images/bg-sand.png) ;
+ background-repeat: url(/images/bg-sand.png);
+ }
+
+h1{
+  color: #c13832 ;
+  font-size: 84px ;
+  letter-spacing: -0.05em;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  text-align: center;
+}
+
+h2{
+   font-family: 'Open Sans', sans-serif;
+   font-size: 55px ;
+   margin: 0px ;
+   letter-spacing: -0.025em ;
+   text-align: center ;
+}
+
+nav a{
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav a:hover{
+  text-decoration: underline;
+}
+
+nav li{
+  list-style-type: none ;
+  display: inline-block ;
+}
+
+nav ul{
+  float: right;
+}
+
+.clear{
+  clear: both;
+}
+
+div#pillars{
+  text-align: center ;
+  margin: 0px ;
+  width: 960px ;
+}
+
+li#panel-watch{
+  width: 245px
+}
+
+div#firefox{
+  background: white;
+  margin: 0px ;
+  
+}

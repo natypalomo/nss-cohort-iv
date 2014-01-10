@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Bowlby+One+SC);
+<link href='http://fonts.googleapis.com/css?family=Englebert' rel='stylesheet' type='text/css'>
+
+
+
+header{
+  color: red;
+  border:2px;
+ }
+header h1{
+  margin-right: 20px;
+  font-family: 'Bowlby One SC', cursive;
+  color: white;
+}
+
+body{
+  background: url(/images/tile.jpg);
+}
+
+
+p{
+ font-family: 'Englebert', sans-serif;
+ color: green;
+ letter-spacing: 3px;
+}
+
+
+a{
+ border:1px solid blue;
+ text-decoration: none;
+ background-color:red;
+ color: yellow;
+ padding: 3px;
+ letter-spacing:2px;
+}
+
+a:hover{
+ background-color:yellow;
+ color: red;
+}
